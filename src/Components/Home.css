@@ -1,0 +1,26 @@
+.app {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 1%;
+    
+  }
+  
+  button {
+    background-color: #FA8072;
+    border: 1px solid #CD5C5C;
+    border-radius: 3px;
+    font-size: 25px;
+    font-weight: 400;
+    color: #fff;
+    padding: 10px;
+    width: 20%;
+  }
+  
+  .flower-list {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  
